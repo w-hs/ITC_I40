@@ -8,3 +8,5 @@
 /doc/Inhalt/*.aux
 /doc/Ausarbeitung.run.xml
 /doc/Bilder/Thumbs.db
+/doc/*.bbl
+/doc/*.blg
