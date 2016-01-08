@@ -1,0 +1,9 @@
+/doc/*.aux
+/doc/*.bcf
+/doc/*.log
+/doc/Ausarbeitung.out
+/doc/Ausarbeitung.pdf
+/doc/Ausarbeitung.synctex.gz
+/doc/*.toc
+/doc/Inhalt/*.aux
+/doc/Ausarbeitung.run.xml
